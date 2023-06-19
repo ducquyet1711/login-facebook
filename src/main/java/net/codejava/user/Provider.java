@@ -1,5 +1,5 @@
 package net.codejava.user;
 
 public enum Provider {
-	LOCAL, FACEBOOK
+	LOCAL, GOOGLE, FACEBOOK, GITHUB
 }

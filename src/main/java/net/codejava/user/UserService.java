@@ -16,9 +16,14 @@ public class UserService {
             User newUser = new User();
             newUser.setUsername(username);
             newUser.setProvider(Provider.FACEBOOK);
-            newUser.setEnabled(true);          
-             
+            newUser.setEnabled(true);
             repo.save(newUser);        
+        }else {
+            User newUser = new User();
+            newUser.setUsername(username);
+            newUser.setProvider(Provider.GOOGLE);
+            newUser.setEnabled(true);
+            repo.save(newUser);
         }
          
     }

@@ -28,6 +28,12 @@ spring:
           scope:
            - email
            - public_profile
+         google:
+           clientId: 869020242992-d6p3nh9rte50gr1u6jb96qquqndvfq9l.apps.googleusercontent.com
+           clientSecret: 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
+           scope:
+             - email
+             - profile
 logging:
   level:
     org:
