@@ -1,0 +1,36 @@
+debug: true
+server:
+  port: 8001
+  servlet:
+    context-path: /
+     
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+#    url: jdbc:postgresql://localhost:5432/postgres
+#    username: postgres
+#    password: 1711
+    url: jdbc:postgresql://containers-us-west-51.railway.app:5864/railway
+    username: postgres
+    password: rEKAgdMCiSOVLdXePTcf
+  jpa:
+    hibernate:
+      ddl-auto: update
+    open-in-view: false
+
+  security:
+    oauth2:
+      client:
+        registration:
+         facebook:
+          clientId: 6631759010176516
+          clientSecret: bbec179ecd337a11662ad0fa3f5c4caf
+          scope:
+           - email
+           - public_profile
+logging:
+  level:
+    org:
+      springframework:
+        boot:
+          autoconfigure: INFO

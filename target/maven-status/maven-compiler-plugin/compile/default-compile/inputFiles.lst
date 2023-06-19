@@ -1,0 +1,16 @@
+D:\DTS\Test\ProductManagerFacebookLogin\src\main\java\net\codejava\AppController.java
+D:\DTS\Test\ProductManagerFacebookLogin\src\main\java\net\codejava\security\UserDetailsServiceImpl.java
+D:\DTS\Test\ProductManagerFacebookLogin\src\main\java\net\codejava\user\Role.java
+D:\DTS\Test\ProductManagerFacebookLogin\src\main\java\net\codejava\user\UserRepository.java
+D:\DTS\Test\ProductManagerFacebookLogin\src\main\java\net\codejava\security\oauth\CustomOAuth2UserService.java
+D:\DTS\Test\ProductManagerFacebookLogin\src\main\java\net\codejava\security\oauth\CustomOAuth2User.java
+D:\DTS\Test\ProductManagerFacebookLogin\src\main\java\net\codejava\user\User.java
+D:\DTS\Test\ProductManagerFacebookLogin\src\main\java\net\codejava\user\UserService.java
+D:\DTS\Test\ProductManagerFacebookLogin\src\main\java\net\codejava\security\MyUserDetails.java
+D:\DTS\Test\ProductManagerFacebookLogin\src\main\java\net\codejava\product\ProductRepository.java
+D:\DTS\Test\ProductManagerFacebookLogin\src\main\java\net\codejava\product\Product.java
+D:\DTS\Test\ProductManagerFacebookLogin\src\main\java\net\codejava\ProductManagerApplication.java
+D:\DTS\Test\ProductManagerFacebookLogin\src\main\java\net\codejava\MvcConfig.java
+D:\DTS\Test\ProductManagerFacebookLogin\src\main\java\net\codejava\security\WebSecurityConfig.java
+D:\DTS\Test\ProductManagerFacebookLogin\src\main\java\net\codejava\product\ProductService.java
+D:\DTS\Test\ProductManagerFacebookLogin\src\main\java\net\codejava\user\Provider.java

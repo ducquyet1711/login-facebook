@@ -1,0 +1,17 @@
+net\codejava\security\WebSecurityConfig$1.class
+net\codejava\product\ProductRepository.class
+net\codejava\security\WebSecurityConfig.class
+net\codejava\product\ProductService.class
+net\codejava\security\oauth\CustomOAuth2UserService.class
+net\codejava\user\Provider.class
+net\codejava\security\oauth\CustomOAuth2User.class
+net\codejava\user\User.class
+net\codejava\product\Product.class
+net\codejava\security\UserDetailsServiceImpl.class
+net\codejava\MvcConfig.class
+net\codejava\user\UserRepository.class
+net\codejava\user\Role.class
+net\codejava\ProductManagerApplication.class
+net\codejava\AppController.class
+net\codejava\user\UserService.class
+net\codejava\security\MyUserDetails.class
