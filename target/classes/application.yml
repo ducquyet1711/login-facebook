@@ -28,6 +28,7 @@ spring:
           scope:
            - email
            - public_profile
+          redirect-uri: https://login-test-prod.up.railway.app/login/oauth2/code/facebook
          google:
            clientId: 869020242992-d6p3nh9rte50gr1u6jb96qquqndvfq9l.apps.googleusercontent.com
            clientSecret: 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
